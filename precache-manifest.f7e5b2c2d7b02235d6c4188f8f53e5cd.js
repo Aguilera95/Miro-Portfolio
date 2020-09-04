@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af3043f65c54c50da56a0ab51be64a6d",
+    "revision": "46ec17683a2293ac3071cd158463e15f",
     "url": "/Miro-Portfolio/index.html"
   },
   {
-    "revision": "9e730ed0fcf64f4bb856",
+    "revision": "5935acb0177f3a059fac",
     "url": "/Miro-Portfolio/static/css/main.8562f971.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Miro-Portfolio/static/js/2.3c175320.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e730ed0fcf64f4bb856",
-    "url": "/Miro-Portfolio/static/js/main.ca9d8122.chunk.js"
+    "revision": "5935acb0177f3a059fac",
+    "url": "/Miro-Portfolio/static/js/main.35eccfca.chunk.js"
   },
   {
     "revision": "6b087c91a98a2869bef8",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Miro-Portfolio/precache-manifest.cb64bd0abc095013f88448aeee420afb.js"
+  "/Miro-Portfolio/precache-manifest.f7e5b2c2d7b02235d6c4188f8f53e5cd.js"
 );
 
 self.addEventListener('message', (event) => {
